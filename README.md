@@ -1,5 +1,5 @@
 # Fine-tuning-Stable-diffusion
-This repository belongs to the process of augmenting, collecting data, and fine-tuning the stable diffusion.
+This repository belongs to the process of augmenting, collecting data, and fine-tuning the stable diffusion. This repository provides the code to fine-tune stable diffusion version 1.4 using Lora and the original versions of the 1.4 stable diffusion. 
 
 # Datase
 This repository uses the available dataset in hugging face and it is available through in alirezzaa13/Mechanicalpart. The number of available mechanical samples is 7.36 K images.
