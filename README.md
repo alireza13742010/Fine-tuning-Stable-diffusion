@@ -14,3 +14,10 @@ The process of augmenting the picture are: </p>
   <img src="https://github.com/user-attachments/assets/464da2d7-2e82-4df4-bf5a-bc2b3fb61478" width="350" title="Generated Image">
 </p>
 
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/b8d9f665-9cc9-416c-9846-531add0449bf" width="350" title="Generated Image">
+  <img src="https://github.com/user-attachments/assets/750fbaef-d0df-4607-adbd-69dad02418d7" width="350" title="Generated Image">
+</p>
+
+
+
