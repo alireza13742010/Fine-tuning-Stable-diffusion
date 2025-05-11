@@ -1,6 +1,13 @@
 # Fine-tuning-Stable-diffusion
 This repository belongs to the process of augmenting, collecting data, and fine-tuning the stable diffusion.
 
+# Datase
+This repository uses the available dataset in hugging face and it is available through in alirezzaa13/Mechanicalpart. The number of available mechanical samples is 7.36 K images.
+The process of augmenting the picture are: 
+
+1. HSI Contrasting.
+2. Normalization.
+3. Zooming aspect.
 # Results
 <p align="center">
   <img src="https://github.com/user-attachments/assets/d8dd0150-b39b-4224-aa5c-543a96b5b6a9" width="350" title="Generated Image">
